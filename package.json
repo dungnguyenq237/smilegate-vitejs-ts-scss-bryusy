@@ -8,7 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.2.25"
+    "vue": "^3.4.27"
   },
   "devDependencies": {
     "@types/node": "^17.0.25",
